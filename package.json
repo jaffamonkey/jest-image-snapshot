@@ -6,8 +6,11 @@
     "test": "jest"
   },
   "keywords": [
-    "jest-image-snapshot",
-    "examples"
+    "test",
+    "visual testing",
+    "css",
+    "jest",
+    "browser testing"
   ],
   "repository": {
     "type": "git",
